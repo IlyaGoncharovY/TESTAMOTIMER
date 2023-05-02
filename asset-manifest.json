@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TESTAMOTIMER/static/css/main.9071bff3.css",
+    "main.js": "/TESTAMOTIMER/static/js/main.21480833.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TESTAMOTIMER/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TESTAMOTIMER/index.html",
+    "main.9071bff3.css.map": "/TESTAMOTIMER/static/css/main.9071bff3.css.map",
+    "main.21480833.js.map": "/TESTAMOTIMER/static/js/main.21480833.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TESTAMOTIMER/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9071bff3.css",
+    "static/js/main.21480833.js"
+  ]
+}
